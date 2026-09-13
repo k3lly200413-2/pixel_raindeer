@@ -59,7 +59,7 @@ Each device connects to a shared **HiveMQ** broker over Wi-Fi and talks to its p
 
 | Topic         | Direction       | Payload                      |
 | ------------- | --------------- | ---------------------------- |
-| Tonina/invia  | Device → Broker | `pack_index,animation_index` |
+| Tonina/esp32  | Device → Broker | `pack_index,animation_index` |
 | Tonina/riceve | Broker → Device | `pack_index,animation_index` |
 
 The payload is a comma-separated pair of numbers — pack index and animation index — mapping directly to the animation headers on the receiving device.
