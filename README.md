@@ -1,8 +1,6 @@
 # Pixel Raindeer
 #### A pixel-art messaging device for long distance relationships/friendships
 
-# VIDEO TBD
-
 ## Inspiration
 
 This is not an original idea, I was inspired to create this project whilst watching an instagram reel posted by [fishlooker](https://www.instagram.com/fishlooker/) specifically [this video](https://www.instagram.com/p/DU_0Hx5CRRT/). One thing I opted to change was to use a rotary encoder rather than pushbuttons, I felt that this made navigating easier and more intuitive.
